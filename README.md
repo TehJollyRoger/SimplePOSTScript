@@ -7,4 +7,4 @@ Request lib
 just fill in the data you are using within:
 url
 postVars
-optional: print the post response
+optional: print the post responses
