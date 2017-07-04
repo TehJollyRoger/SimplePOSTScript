@@ -5,6 +5,6 @@ Dependencies:
 Request lib
 
 just fill in the data you are using within:
-url
-postVars
+url/
+postVars/
 optional: print the post responses
